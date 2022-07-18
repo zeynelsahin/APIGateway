@@ -1,0 +1,15 @@
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ReservationAPI\Reservation.API.Infrastructure\bin\Debug\net6.0\Reservation.API.Infrastructure.deps.json
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ReservationAPI\Reservation.API.Infrastructure\bin\Debug\net6.0\Reservation.API.Infrastructure.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ReservationAPI\Reservation.API.Infrastructure\bin\Debug\net6.0\Reservation.API.Infrastructure.pdb
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ReservationAPI\Reservation.API.Infrastructure\bin\Debug\net6.0\Reservation.API.Models.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ReservationAPI\Reservation.API.Infrastructure\bin\Debug\net6.0\Reservation.API.Models.pdb
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\net6.0\Reservation.API.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\net6.0\Reservation.API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\net6.0\Reservation.API.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\net6.0\Reservation.API.Infrastructure.AssemblyInfo.cs
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\net6.0\Reservation.API.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\net6.0\Reservation.API.Infrastructure.csproj.CopyComplete
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\net6.0\Reservation.API.Infrastructure.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\net6.0\refint\Reservation.API.Infrastructure.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\net6.0\Reservation.API.Infrastructure.pdb
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ReservationAPI\Reservation.API.Infrastructure\obj\Debug\net6.0\ref\Reservation.API.Infrastructure.dll

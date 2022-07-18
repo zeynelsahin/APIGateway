@@ -1,0 +1,12 @@
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ReservationAPI\Reservation.API.Models\bin\Debug\net6.0\Reservation.API.Models.deps.json
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ReservationAPI\Reservation.API.Models\bin\Debug\net6.0\Reservation.API.Models.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ReservationAPI\Reservation.API.Models\bin\Debug\net6.0\Reservation.API.Models.pdb
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ReservationAPI\Reservation.API.Models\obj\Debug\net6.0\Reservation.API.Models.csproj.AssemblyReference.cache
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ReservationAPI\Reservation.API.Models\obj\Debug\net6.0\Reservation.API.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ReservationAPI\Reservation.API.Models\obj\Debug\net6.0\Reservation.API.Models.AssemblyInfoInputs.cache
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ReservationAPI\Reservation.API.Models\obj\Debug\net6.0\Reservation.API.Models.AssemblyInfo.cs
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ReservationAPI\Reservation.API.Models\obj\Debug\net6.0\Reservation.API.Models.csproj.CoreCompileInputs.cache
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ReservationAPI\Reservation.API.Models\obj\Debug\net6.0\Reservation.API.Models.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ReservationAPI\Reservation.API.Models\obj\Debug\net6.0\refint\Reservation.API.Models.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ReservationAPI\Reservation.API.Models\obj\Debug\net6.0\Reservation.API.Models.pdb
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ReservationAPI\Reservation.API.Models\obj\Debug\net6.0\ref\Reservation.API.Models.dll

@@ -1,0 +1,15 @@
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ContactAPI\ContactAPI.Infrastructure\bin\Debug\net6.0\Contact.API.Infrastructure.deps.json
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ContactAPI\ContactAPI.Infrastructure\bin\Debug\net6.0\Contact.API.Infrastructure.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ContactAPI\ContactAPI.Infrastructure\bin\Debug\net6.0\Contact.API.Infrastructure.pdb
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ContactAPI\ContactAPI.Infrastructure\bin\Debug\net6.0\Contact.API.Models.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ContactAPI\ContactAPI.Infrastructure\bin\Debug\net6.0\Contact.API.Models.pdb
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ContactAPI\ContactAPI.Infrastructure\obj\Debug\net6.0\ContactAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ContactAPI\ContactAPI.Infrastructure\obj\Debug\net6.0\ContactAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ContactAPI\ContactAPI.Infrastructure\obj\Debug\net6.0\ContactAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ContactAPI\ContactAPI.Infrastructure\obj\Debug\net6.0\ContactAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ContactAPI\ContactAPI.Infrastructure\obj\Debug\net6.0\ContactAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ContactAPI\ContactAPI.Infrastructure\obj\Debug\net6.0\ContactAPI.Infrastructure.csproj.CopyComplete
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ContactAPI\ContactAPI.Infrastructure\obj\Debug\net6.0\Contact.API.Infrastructure.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ContactAPI\ContactAPI.Infrastructure\obj\Debug\net6.0\refint\Contact.API.Infrastructure.dll
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ContactAPI\ContactAPI.Infrastructure\obj\Debug\net6.0\Contact.API.Infrastructure.pdb
+C:\Users\zeynels\OneDrive - Provision\Desktop\RiderProjects\APIGateway\Services\ContactAPI\ContactAPI.Infrastructure\obj\Debug\net6.0\ref\Contact.API.Infrastructure.dll
